@@ -3,8 +3,8 @@
 
 #include "graph/graph.h"
 #include "cpu/bfs_cpu.h"
-#include "gpu/simple/bfs_gpu.cuh"
-#include "gpu/optimized/bfs_gpu_opt.cuh"
+#include "gpu/bfs_gpu.cuh"
+
 
 using namespace std;
 
