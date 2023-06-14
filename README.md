@@ -32,6 +32,7 @@
 ./Parallel-BFS < graphs/64000_200.graph
  ```
 
+The results are then stored in 'results.csv'.
 <h2>💖Like my work?</h2>
 
 Contact me if you have any corrections or additional features to offer me.
