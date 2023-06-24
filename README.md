@@ -77,7 +77,7 @@ The execution of the `main.cu` file takes a long time because the algorithm is r
 The results are then stored in 'results.csv'.
 <h2>💖Like my work?</h2>
 
-Contact me if you have any corrections or additional features to offer me.
+Contact me if you have any corrections or additional features to offer.
 
 <h2>👥 Authors:</h2>
 <ul>
