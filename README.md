@@ -51,6 +51,14 @@
     ├── bfs_pth_only.cpp
     └── generateGraph.cpp
 ```
+- `graphs/`: Contains sample graphs and the Python script to generate them.
+- `src/cpu/`: CPU implementation.
+- `src/gpu/`: GPU implementations.
+- `src_threads/`: Parallel CPU implementation using threads.
+- `main.cpp`: Contains the main function for the CPU implementation.
+- `main.cu`: Contains the main function for the GPU implementations.
+
+The execution of the `main.cu` file takes a long time because the algorithm is run 30 times to obtain meaningful results (see the <a href="https://github.com/mirawara/Parallel-BFS/Wiki/BFS-Wiki">Wiki</a> for further details). You can easily modify it to suit your needs.
 
 <h2>🖥️ Usage: </h2>
 <p>Manual:</p>
